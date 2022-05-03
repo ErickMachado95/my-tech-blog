@@ -1,0 +1,13 @@
+html, body, #___gatsby{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#gatsby-focus-wrapper{
+  height: 100%
+}
+
+
+
